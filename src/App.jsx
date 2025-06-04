@@ -1,7 +1,8 @@
 import './App.css'
+import Chat from './Chat'
 
 export default function App() {
   return(<>
-    Hello World! 
+    <Chat />
   </>)
 }
